@@ -3,283 +3,355 @@
   "name": "Cartas contra la humanidad (base)",
   "blackCards": [
     {
-      "text": "Bebo para olvidar _&period;",
+      "text": "Bebo para olvidar _.",
       "pick": 1
     },
     {
-      "text": "_&colon; bueno hasta la &uacute;ltima gota&period;",
+      "text": ": bueno hasta la última gota.",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es ese sonido&quest;",
+      "text": "¿Qué es ese sonido?",
       "pick": 1
     },
     {
-      "text": "&iquest;A qu&eacute; huele&quest;",
+      "text": "¿A qué huele?",
       "pick": 1
     },
     {
-      "text": "Durante el sexo&comma; me gusta pensar en _&period;",
+      "text": "Durante el sexo, me gusta pensar en _.",
       "pick": 1
     },
     {
-      "text": "La medicina alternativa ahora usa las propiedades curativas de _&period;",
+      "text": "La medicina alternativa ahora usa las propiedades curativas de _.",
       "pick": 1
     },
     {
-      "text": "Mientras flipaba con &aacute;cido _ se convirti&oacute; en _&period;",
+      "text": "Mientras flipaba con ácido _ se convirtió en _.",
       "pick": 2
     },
     {
-      "text": "Por culpa de un error de marketing El Corte Ingl&eacute;s ha dejado de vender _&period;",
+      "text": "Por culpa de un error de marketing Amuse ha dejado de vender _.",
       "pick": 1
     },
     {
-      "text": "&iquest;Por qu&eacute; estoy pegajoso&quest;",
+      "text": "¿Por qué estoy pegajoso?",
       "pick": 1
     },
     {
-      "text": "Hoy el tio de Bricoman&iacute;a construir&aacute; _&period;",
+      "text": "Hoy el tío de Bricomanía construirá _.",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; me traje de Marruecos&quest;",
+      "text": "¿Qué me traje de Japón?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; ayuda a Obama a relajarse&quest;",
+      "text": "¿Qué ayuda a Rajoy a relajarse?",
       "pick": 1
     },
     {
-      "text": "_&period; &iexcl;Ch&oacute;cala&excl;",
+      "text": "_. ¡Chócala!",
       "pick": 1
     },
     {
-      "text": "Durante el comunmente infravalorado Per&iacute;odo Marr&oacute;n de Picasso&comma; hizo cientos de pinturas de _&period;",
+      "text": "Durante el comúnmente infravalorado Período Marrón de Picasso, hizo cientos de pinturas de _.",
       "pick": 1
     },
     {
-      "text": "It&apos;s a trap&excl;",
+      "text": "It's a trap!",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es lo que m&aacute;s le gusta a Aznar&quest;",
+      "text": "¿Qué es lo que más le gusta a Aznar?",
       "pick": 1
     },
     {
-      "text": "&iexcl;A que no puedes comer s&oacute;lo uno&excl;",
+      "text": "¿Qué es lo que no te gustaría encontrar en un plato de comida china?",
       "pick": 1
     },
     {
-      "text": "La guerra sirve para _&period;",
+      "text": "¿Cuál es el próximo juguete del HappyMeal®?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es lo que no te gustar&iacute;a encontrar en un plato de comida china&quest;",
+      "text": "Este año, en vez de carbón, Papa Noel traerá _ a los niños malos.",
       "pick": 1
     },
     {
-      "text": "&iquest;Cu&aacute;l es el pr&oacute;ximo juguete del HappyMeal&copy;&quest;",
+      "text": "¿Cómo mantengo estable mi relación de pareja?",
       "pick": 1
     },
     {
-      "text": "Este a&ntilde;o&comma; en vez de carb&oacute;n&comma; Papa Noel traer&aacute; _ a los ni&ntilde;os malos&period;",
+      "text": "Cuando sea Presidente, crearé el ministerio de _.",
       "pick": 1
     },
     {
-      "text": "&iquest;C&oacute;mo mantengo estable mi relaci&oacute;n de pareja&quest;",
+      "text": "¿Cuál es mi poder secreto?",
       "pick": 1
     },
     {
-      "text": "Cuando sea Presidente&comma; crear&eacute; el ministerio de _&period;",
+      "text": "EE.UU. ha empezado a enviar _ a los niños de Afghanistan.",
       "pick": 1
     },
     {
-      "text": "&iquest;Cu&aacute;l es mi poder secreto&quest;",
+      "text": "Ojalá no hubiese perdido el manual de _.",
       "pick": 1
     },
     {
-      "text": "EE&period;UU&period; ha empezado a enviar _ a los ni&ntilde;os de Afghanistan&period;",
+      "text": "¿Por qué no puedo dormir por las noches?",
       "pick": 1
     },
     {
-      "text": "Ojal&aacute; no hubiese perdido el manual de _&period;",
+      "text": "Cuando esté en la cárcel, meteré _ de contrabando.",
       "pick": 1
     },
     {
-      "text": "&iquest;Por qu&eacute; no puedo dormir por las noches&quest;",
+      "text": "¿Qué come Moa para cenar?",
       "pick": 1
     },
     {
-      "text": "Cuando est&eacute; en la c&aacute;rcel&comma; meter&eacute; _ de contrabando&period;",
+      "text": "El paraíso está lleno de _.",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; toma Vin Diesel para cenar&quest;",
+      "text": "Cuando sea millonario, levantaré una estatua de 20 metros en conmemoración de _.",
       "pick": 1
     },
     {
-      "text": "El para&iacute;so est&aacute; lleno de _&period;",
+      "text": "¿Qué encontraría tu abuela perturbador pero extrañamente encantador?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es lo que hay que hacer para llevarte a la cama&quest;",
+      "text": "En la nueva película de Marvel, Hulk se enfrenta por primera vez con _.",
       "pick": 1
     },
     {
-      "text": "Cuando sea millonario&comma; levantar&eacute; una estatua de 20 metros en conmemoraci&oacute;n de _&period;",
+      "text": "¿Cuál es el vicio secreto de Batman?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; encontrar&iacute;a tu abuela perturbador pero extra&ntilde;amente encantador&quest;",
+      "text": "¿Cuál es mi anti-droga?",
       "pick": 1
     },
     {
-      "text": "En la nueva pel&iacute;cula original de Disney Channel&comma; Hannah Montana se enfrenta por primera vez con _&period;",
+      "text": "La Liga de Fútbol ha prohibido _ por dar a los jugadores una ventaja injusta.",
       "pick": 1
     },
     {
-      "text": "&iquest;Cu&aacute;l es el vicio secreto de Batman&quest;",
+      "text": "¿_? ¡Hay una aplicación para eso!",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; me llevar&iacute;a en un viaje al pasado para convencer a la gente de que soy un poderoso mago&quest;",
+      "text": "¿Qué me produce gases incontrolados?",
       "pick": 1
     },
     {
-      "text": "&iquest;Cu&aacute;l es mi anti-droga&quest;",
-      "pick": 1
-    },
-    {
-      "text": "La Liga de F&uacute;tbol ha prohibido _ por dar a los jugadores una ventaja injusta&period;",
-      "pick": 1
-    },
-    {
-      "text": "&iquest;_&quest; &iexcl;Hay una aplicaci&oacute;n para eso&excl;",
-      "pick": 1
-    },
-    {
-      "text": "&iquest;Qu&eacute; me produce gases incontrolados&quest;",
-      "pick": 1
-    },
-    {
-      "text": "As&iacute; es&comma; yo mat&eacute; a _&period; &iquest;Qu&eacute; c&oacute;mo lo hice&quest; _&period;",
+      "text": "Así es, yo maté a _. ¿Qué cómo lo hice?",
       "pick": 2
     },
     {
-      "text": "Y el premio de la academia por _ es para _&period;",
+      "text": "Y el premio de la academia por _ es para _.",
       "pick": 2
     },
     {
-      "text": "En mi pr&oacute;ximo truco&comma; sacar&eacute; _ de _&period;",
+      "text": "En mi próximo truco, sacaré _ de _.",
       "pick": 2
     },
     {
-      "text": "Canal Historia presenta&colon; _&comma; la historia de _&period;",
+      "text": "Canal Historia presenta: _, la historia de _.",
       "pick": 2
     },
     {
-      "text": "&iquest;Cu&aacute;l es la pr&oacute;xima pareja de superh&eacute;roes&quest;",
+      "text": "¿Cuál es la próxima pareja de superhéroes?",
       "pick": 2
     },
     {
-      "text": "Haz un haiku&period;",
+      "text": "Haz un haiku.",
       "pick": 3
     },
     {
-      "text": "&iquest;Qu&eacute; es lo m&aacute;s crujiente&quest;",
+      "text": "¿Qué es lo más crujiente?",
       "pick": 1
     },
     {
-      "text": "&iquest;A qu&eacute; huelen las personas mayores&quest;",
+      "text": "_: probado en niños, aprobado por las madres.",
       "pick": 1
     },
     {
-      "text": "_&colon; probado en ni&ntilde;os&comma; aprobado por las madres&period;",
+      "text": "¿Qué mejora con los años?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; mejora con los a&ntilde;os&quest;",
+      "text": "Lo siento, acabo de _.",
       "pick": 1
     },
     {
-      "text": "Lo siento&comma; acabo de _&period;",
+      "text": "A los blancos les gusta _.",
       "pick": 1
     },
     {
-      "text": "A los blancos les gusta _&period;",
+      "text": "La vida era difícil para los cavernícolas antes de _.",
       "pick": 1
     },
     {
-      "text": "La vida era dif&iacute;cil para los cavern&iacute;colas antes de _&period;",
+      "text": "¿Quién ha robado las galletas del tarro del las galletas?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qui&eacute;n ha robado las galletas del tarro del las galletas&quest;",
+      "text": "¿Qué es lo más emo?",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es lo m&aacute;s emo&quest;",
+      "text": "La excursión al campo fue completamente arruinada por _.",
       "pick": 1
     },
     {
-      "text": "Antes de matarle&comma; Se&ntilde;or Bond&comma; me gustar&iacute;a ense&ntilde;arle _&period;",
+      "text": "¿Qué es el mejor amigo de una chica?",
       "pick": 1
     },
     {
-      "text": "La excursi&oacute;n al campo fue completamente arruinada por _&period;",
+      "text": "Los estudios demuestran que las ratas de laboratorio resuelven laberintos un 50% más rápido tras ser expuestas a _.",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; es el mejor amigo de una chica&quest;",
+      "text": "¿Qué me han estado ocultando mis padres?",
       "pick": 1
     },
     {
-      "text": "Los estudios demuestran que las ratas de laboratorio resuelven laberintos un 50&percnt; m&aacute;s r&aacute;pido tras ser expuestas a _&period;",
+      "text": "El nuevo subgénero de metal japonés que combina el power metal con _ se llama _.",
+      "pick": 2
+    },
+    {
+      "text": "Babymetal ha lanzado merch con temática de _.",
       "pick": 1
     },
     {
-      "text": "&iquest;Qu&eacute; me han estado ocultando mis padres&quest;",
+      "text": "El próximo merch de _ que saldrá a la venta es _.",
+      "pick": 2
+    },
+    {
+      "text": "El próximo merch de Babymetal que saldrá a la venta es _.",
+      "pick": 1
+    },
+    {
+      "text": "En el próximo festival de metal japonés, la atracción principal será una batalla épica entre _ y _ en el escenario.",
+      "pick": 2
+    },
+    {
+      "text": "Babymetal contará su próximo videoclip con la participación especial de _.",
+      "pick": 1
+    },
+    {
+      "text": "La última banda de metal alternativo japonesa ha sorprendido a sus fans al incorporar _.",
+      "pick": 1
+    },
+    {
+      "text": "La portada del próximo álbum de una banda de metal japonés presenta a los miembros rodeados de _.",
+      "pick": 1
+    },
+    {
+      "text": "En una nueva collab, Babymetal y _ planean fusionar danza conceptual con _.",
+      "pick": 2
+    },
+    {
+      "text": "La última canción del album más reciente de Babymetal incluye una sección instrumental inspirada en _.",
+      "pick": 1
+    },
+    {
+      "text": "La última sensación en el idol metal japonés es una banda que mezcla el folk metal con _.",
+      "pick": 1
+    },
+    {
+      "text": "Babymetal ha revelado que su próximo álbum conceptual narrará la historia épica de _.",
+      "pick": 1
+    },
+    {
+      "text": "LOVEBITES ha lanzado un álbum con letras inspiradas en _.",
+      "pick": 1
+    },
+    {
+      "text": "Kobametal ha creado un álbum conceptual basado en la mitología de _.",
+      "pick": 1
+    },
+    {
+      "text": "En el próximo video musical de Babymetal, planean incluir _ como parte de la coreografía.",
+      "pick": 1
+    },
+    {
+      "text": "La última tendencia en el metal japonés es fusionar el metalcore con _.",
+      "pick": 1
+    },
+    {
+      "text": "La más reciente banda de metal japonesa presenta a los miembros vestidos como _.",
+      "pick": 1
+    },
+    {
+      "text": "La nueva colaboración entre Babymetal y una banda de metal clásico incluirá un dueto de _ con _.",
+      "pick": 2
+    },
+    {
+      "text": "La última moda entre los fans del metal japonés es llevar _ a los conciertos como amuleto de la suerte.",
+      "pick": 1
+    },
+    {
+      "text": "La banda de metal kawaii más reciente se llama _ y su imagen incluye a todas las integrantes vestidas como _.",
+      "pick": 2
+    },
+    {
+      "text": "La última innovación en el metal extremo es incorporar sonidos de _ en las voces guturales.",
+      "pick": 1
+    },
+    {
+      "text": "El nuevo proyecto secreto de Babymetal implica la creación de una línea de _.",
+      "pick": 1
+    },
+    {
+      "text": "En el festival de metal japonés de este año, habrá un escenario dedicado exclusivamente a _.",
+      "pick": 1
+    },
+    {
+      "text": "La banda de metal progresivo de Japón ha lanzado una canción de 20 minutos inspirada en _.",
+      "pick": 1
+    },
+    {
+      "text": "El próximo sencillo de Babymetal incluirá a _ como compositor.",
+      "pick": 1
+    },
+    {
+      "text": "La última banda de metal japonés ha adoptado como mascota a _.",
+      "pick": 1
+    },
+    {
+      "text": "What does the Fox say?_",
       "pick": 1
     }
   ],
   "whiteCards": [
-    "Barack Obama",
-    "Txeroki",
     "Esperanza Aguirre",
-    "Correrse en una piscina llena de lagrimas de ni&ntilde;o",
     "Un sombrero muy guay",
     "Auschwitz",
     "Tirarse un pedo e irse",
     "Un pelo p&uacute;bico desviado",
     "Pelotas",
     "Rito de apareamiento",
-    "Olor a viejos",
     "Un terrorista gracioso",
     "Fuego amigo",
     "Frigo pie",
     "Keanu Reeves",
     "Carne de vaca loca",
     "Christopher Walken",
-    "Sean Connery",
-    "Sean Penn",
-    "El hurac&aacute;n Katrina",
     "Racismo",
     "Travestis que dan el pego",
     "Tocamientos genitales",
-    "El 11-M",
     "Esperar hasta el matrimonio",
-    "El cl&iacute;toris",
     "T&iacute;os que no vuelven a llamar",
     "Toma dos tazas",
-    "Una tortuga mordiendo la punta de tu pene",
     "Ped&oacute;filos",
-    "Bono",
     "Michael Jackson",
     "Skeletor",
     "La canci&oacute;n del Tibur&oacute;n",
     "Impotencia",
-    "Natalie Portman",
     "El Big Bang",
     "Bromas sobre el Holocausto en un momento inoportuno",
     "Chupar un Pirulo",
@@ -291,56 +363,37 @@
     "Monaguillos",
     "La tuna",
     "Sobrecompensaci&oacute;n",
-    "Esas veces en las que te entra arena en la vagina",
-    "Gary Coleman",
     "Una fiesta de cumplea&ntilde;os decepcionante",
     "Intercambiar saludos",
     "Su Alteza Real&comma; la Reina Isabel II",
     "Menstruaci&oacute;n",
-    "Tener un gatillazo en los preeliminares",
     "El Teletubby gay",
     "Propaganda homosexual",
-    "Practicar un aborto usando una percha",
     "La Sagrada Biblia",
     "Cienciolog&iacute;a",
     "Tom Cruise",
     "Todas las gambas que puedas comer por 4&period;99&euro;",
-    "Despertarse medio desnudo en el parking del McDonalds",
-    "Ana Ros Quintana",
     "Ataques de dinosaurios",
-    "Protector dental",
-    "Condones de sabores",
     "Abstinencia",
     "Nazis",
     "Am&eacute;rica",
     "Calentamiento global",
     "Ciencia",
     "Chupa Chups",
-    "Un aumento de pechos asim&eacute;trico",
-    "Hacerlo por el culo",
     "Andar como un retrasado",
-    "Pezones empitonados",
     "Desodorante Axe",
     "Paris Hilton",
     "Hara-Kiri",
-    "Bond, James Bond",
     "Lamer algo y luego decir que es tuyo",
     "Comer hasta vomitar",
-    "Autocanibalismo",
-    "Piercings genitales",
     "Esa cosa que electrocuta tus abdominales",
     "Cagar en la sopa",
     "Comportarse como un gilipollas con los ni&ntilde;os",
-    "Pedofilia",
     "Alcoholismo",
     "Un feto",
-    "Que entren a robar en tu casa y que violes a los ladrones",
-    "Levadura",
     "Curar la homosexualidad con la oraci&oacute;n",
     "Kanye West",
     "Pubertad",
-    "200 gramos de hero&iacute;na mexicana",
-    "Agricultura",
     "Din&aacute;micas de grupo",
     "El conejo de Nesquick",
     "Trolls",
@@ -349,8 +402,6 @@
     "Meetic&period;es",
     "Caballerosidad",
     "Un halc&oacute;n con una gorra en la cabeza",
-    "Fabada Litoral",
-    "Eduard Punset",
     "&iexcl;&iexcl;&iexcl;BATMAN&excl;&excl;&excl;",
     "El caf&eacute; m&aacute;s caro del Starbucks",
     "Una ensalada de Telepizza",
@@ -362,21 +413,14 @@
     "El KKK",
     "Preguntas de selectividad basadas en la raza",
     "Polvorones",
-    "Bukkake pixelado",
-    "Lluvias doradas",
     "Comerse la Nocilla a cucharadas",
-    "Tiger Woods",
-    "El golpe de Estado del 23 de febrero",
     "Gandhi",
     "Un curandero",
     "Hacer pucheritos",
     "Limpieza &eacute;tnica",
     "Phoskitos",
-    "Mi colecci&oacute;n de juguetes sexuales de alta tecnolog&iacute;a",
     "Huevos de pterod&aacute;ctilo",
-    "Ronald Reagan",
     "Will Smith",
-    "Dr&period; Martin Luther King&comma; Jr&period;",
     "Esclavitud",
     "J&auml;gerbomb",
     "Fantasmas",
@@ -386,7 +430,6 @@
     "Dise&ntilde;o inteligente",
     "Levantar el cuello de la camisa",
     "Las vias del metro",
-    "Necrofilia",
     "Torsi&oacute;n testicular",
     "Lactancia",
     "Dulce&comma; dulce venganza",
@@ -399,33 +442,25 @@
     "Esta respuesta es post-moderna",
     "Dos enanos cagando en un cubo",
     "Mi alma",
-    "Mis genitales",
-    "Hacerlo con otra persona delante de tu novia",
     "Pasivo-agresividad",
     "DogChow",
-    "Transporte de fluidos",
     "Combusti&oacute;n humana espont&aacute;nea",
     "La marcha atr&aacute;s",
     "Otra maldita pel&iacute;cula de vampiros",
     "El perro de Chocapic",
     "Justin Bieber",
-    "Heath Ledger",
     "Tiempo para uno mismo",
-    "Incesto",
     "Tensi&oacute;n sexual",
     "La sangre de Cristo",
-    "Mahoma",
     "Emociones",
     "Viagra",
     "Ser rico",
     "Fantas&iacute;as con le&ntilde;adores",
     "Padres muertos",
-    "Chupar algunas pollas para no ser reclutado",
     "Una pistola de agua llena de meado de gato",
     "Poluciones nocturnas",
     "Ser fabuloso",
     "Arnold Schwarzenegger",
-    "Esbozar una sonrisa ante la menci&oacute;n de Camboya",
     "Motosierras en vez de manos",
     "Darth Vader",
     "Bob Esponja",
@@ -440,8 +475,6 @@
     "Una rascada clandestina de culo",
     "Polvo de &aacute;ngel",
     "Decirle adi&oacute;s a Dios",
-    "Un agujero del culo blanqueado",
-    "La placenta",
     "Yo nunca",
     "Familias gitanas",
     "Cards Against Humanity",
@@ -453,19 +486,13 @@
     "Declaraci&oacute;n de los Derechos Humanos",
     "Preadolescentes",
     "Existencialistas",
-    "Baltasar Garz&oacute;n",
     "Esmegma",
-    "Morir de disenter&iacute;a",
-    "Los ni&ntilde;os de la guerra",
     "El Papa",
-    "William Shatner",
     "Envidia de pene",
     "Complejo de Edipo",
     "Soy amigo de tu padre en Facebook&copy;",
-    "Genghis Khan",
     "Una tortura china",
     "Mi vida sexual",
-    "Oompa Loompas",
     "Un giro de gui&oacute;n de M&period; Night Shyamalan",
     "Tercera base",
     "Dejar un mensaje de voz inc&oacute;modo",
@@ -483,13 +510,9 @@
     "Una mujer negra descarada",
     "Peleas de pollos",
     "Manazas",
-    "Lesbianas nazis borrachas que dan palizas",
-    "&lpar;Estoy haciendo ejercicios vaginales ahora mismo&rpar;",
     "Porno alem&aacute;n sadomasoquista",
-    "Gloryholes",
     "&iexcl;Cachorritos&excl;",
     "Una paja triste",
-    "Felaci&oacute;n al volante",
     "La abuelita",
     "Tener la mand&iacute;bula inmovilizada",
     "Un micropene",
@@ -497,12 +520,9 @@
     "P&aacute;jaros que no pueden volar",
     "Ropa interior comestible",
     "Un malentendido guarrete",
-    "Herpes labial",
     "La trama de una pel&iacute;cula de Michael Bay",
     "Abdominales espectaculares",
     "Don Limpio&comma; justo detr&aacute;s de ti",
-    "Sexo con se&ntilde;oras gordas",
-    "Robert Downey&comma; Jr&period;",
     "Ir a una org&iacute;a s&oacute;lo por la comida",
     "Zorritas",
     "Una explosi&oacute;n termonuclear",
@@ -511,8 +531,6 @@
     "Pezones que se escapan del vestido",
     "M&uacute;sica New Age",
     "Solos de saxof&oacute;n",
-    "Masturbaci&oacute;n",
-    "Prepucio",
     "Quitarse la camiseta",
     "Tamborileros",
     "Seducci&oacute;n",
@@ -520,7 +538,6 @@
     "Gente sin hogar",
     "Arcoiris y rayos de sol",
     "Una LAN party",
-    "Follamigos",
     "Gancho de izquierda",
     "Limpiarle el culo",
     "Focus&iacute;n",
@@ -536,9 +553,7 @@
     "Echar un vistazo",
     "Piruletas enormes",
     "Heineken",
-    "Federico Jim&eacute;nez Losantos",
     "Un canalillo generoso",
-    "Chester Cheetah",
     "Aguafiestas",
     "M&uacute;sica turbo-folk de Europa del este",
     "Cagarse encima",
@@ -547,14 +562,11 @@
     "Una erecci&oacute;n que dura m&aacute;s de cuatro horas",
     "Pavonearse",
     "Porno con tent&aacute;culos",
-    "El perineo",
     "El Cascanueces",
-    "Barriga en forma de culo",
     "&quot;Twitteando&quot;",
     "Amputados",
     "Patinaje art&iacute;stico sobre hielo con personas del mismo sexo",
     "El equipo de gimnasia chino",
-    "Labios vaginales enormes",
     "Una vida de tristeza",
     "Asaltar tumbas",
     "Ponerse la ropa interior al rev&eacute;s para no tener que lavarla",
@@ -583,10 +595,8 @@
     "Se ha escrito un crimen",
     "Fricci&oacute;n",
     "Violar a un conocido",
-    "&iexcl;&iexcl;&iexcl;Sexo sorpresa&excl;&excl;&excl;",
     "Lanzamiento de enanos",
     "Una lobotom&iacute;a hecha con un picahielos",
-    "La vagina de Pilar Bardem",
     "Ni&ntilde;os con correas",
     "Actitud",
     "Un camello de dibujos animados disfrutando el fresco sabor de un cigarrillo",
@@ -594,13 +604,10 @@
     "M&uacute;ltiples heridas por apu&ntilde;alamiento",
     "Emborracharse con enjuague bucal",
     "Esnifar pegamento",
-    "Hulk Hogan",
     "El gay que aparece en todas las series modernas",
-    "Constantino Romero durmiendo en un colch&oacute;n LoMonaco&copy;",
     "Bestialidad",
     "Colegios tradicionalmente negros",
     "Beber solo",
-    "Ni&ntilde;os con c&aacute;ncer de culo",
     "Cagar y bautizarlo",
     "Mujeres en anuncios de yogurt",
     "Manos de pianista",
@@ -629,7 +636,6 @@
     "Comerse las galletas antes de la venta ben&eacute;fica",
     "Comer directamente de la olla",
     "Hacer un reloj de arena",
-    "Sexo oral no rec&iacute;proco",
     "Gui&ntilde;arle el ojo a los viejos",
     "Ligar en la cl&iacute;nica de aborci&oacute;n",
     "Cabrearte tanto que te empalmas",
@@ -641,7 +647,62 @@
     "Un mimo teniendo un ataque al coraz&oacute;n",
     "Pacman comiendo comida descontrol&aacute;damente",
     "Un relato er&oacute;tico de Harry Potter",
-    "Peanut Butter Jelly Time",
-    "Kim Jong-il"
+    "Kim Jong-Un",
+    "Babymetal",
+    "Metalverse",
+    "Metallica",
+    "Iron Maiden",
+    "Sabaton",
+    "Slipknot",
+    "Slayer",
+    "Bring me the Horizon",
+    "Kobayashi",
+    "Kobametal",
+    "Koba",
+    "Su-metal",
+    "Suzuka",
+    "Moametal",
+    "Moa",
+    "Yuimetal",
+    "Yui",
+    "Momometal",
+    "Momoko",
+    "BOH",
+    "Takayoshi",
+    "Hideki",
+    "LEDA",
+    "Barone",
+    "Kamis del este",
+    "Kamis del oeste",
+    "Oli Sykes",
+    "Rob Halford",
+    "Bruce Dickinson",
+    "Lemmy Kilmister",
+    "Axl Rose",
+    "Slash",
+    "James Hetfield",
+    "Ozzy Osbourne",
+    "Corey Taylor",
+    "Phil Anselmo",
+    "Tom Araya",
+    "Lars Ulrich",
+    "Kirk Hammett",
+    "Robert Trujillo",
+    "Joakim",
+    "Yoko Ono",
+    "Bubblegum Doom Metal",
+    "Viking Disco Metal",
+    "Bossa Nova Blackened Death Metal",
+    "Gritos guturales",
+    "Headbangeeeeerrrrrr",
+    "Maids",
+    "Un solo de guitarra de 5 minutos",
+    "Un pulpo baterista",
+    "Un riff de Meshuggah",
+    "Mosh pit de abuelas",
+    "Tim Henson tocando un ukelele",
+    "Koba contando billetes",
+    "Inteligencia artificial",
+    "Trve metalhead"
   ]
 }
